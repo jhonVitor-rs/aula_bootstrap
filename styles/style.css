@@ -1,0 +1,42 @@
+body {
+  background: #03494e;
+
+  font: 2rem Helvetica, sans-serif;
+}
+
+section {
+  margin: 1rem 4rem;
+}
+
+.navbar {
+  background: #0ad4e2;
+}
+
+nav ul li {
+  margin: 2rem;
+}
+
+nav ul li:hover {
+  text-decoration: underline;
+}
+
+section div {
+  background: #8eaeb1;
+  border-radius: 0.5rem;
+}
+
+.margin {
+  padding: 4rem;
+}
+
+#parceiros img,
+#servicos img {
+  width: 100%;
+  height: auto;
+}
+
+#servicos p {
+  padding: 0 9rem;
+  text-align: justify;
+  font-size: 1.5rem;
+}
